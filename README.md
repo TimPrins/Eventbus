@@ -1,6 +1,6 @@
 ## Synopsis
 
-A simple eventbus made at my internship to learn the basics of classes in Js and to learn how to export and import a file.
+A simple eventbus made at my internship to learn the basics of classes in Js and to learn how to include different JS files within each other.
 
 ## Code Example
 
